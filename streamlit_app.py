@@ -6,4 +6,4 @@ x = st.text_input("How?")
 
 st.write("you entered", x)
 
-click = st.button("click me"
+click = st.button("click me")
